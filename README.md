@@ -1,4 +1,10 @@
 # 哲学方法论 · Philosophy Methodology
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img alt="By" src="https://img.shields.io/badge/by-TouKenAI-orange" />
+</p>
+
 
 > 一套从多年实战中沉淀的**哲学辩证法思维方法论**，及其在 AI 智能体（Agent）协作中的落地实验记录。
 > 这不是方法清单，而是**思维结构**——遇到新问题会自动激活，而非用完就放下的工具。
@@ -60,3 +66,17 @@
 
 *作者：陈刚（投肯小刚） · 重庆投肯智能科技有限公司*
 *本仓库内容基于 2026 年 4 月的真实研究记录整理。*
+
+
+## 投肯智能开源矩阵
+
+> 重庆投肯智能科技有限公司 · 开源项目导航
+
+| 仓库 | 说明 |
+|------|------|
+| [TouKenAI](https://github.com/TouKenAI/TouKenAI) | 门面 / 公司形象展示页（Profile README） |
+| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球标准5步分析 + 优化引擎 |
+| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透标准5步分析 + 优化引擎 |
+| **[philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology)** | 哲学方法论体系（4层 + 实验记录）（本仓库） |
+| [ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints) | AI 行为约束体系（7条硬约束） |
+| [tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper) | 投肯智能技术白皮书（FDE / 信创 / AI落地） |
